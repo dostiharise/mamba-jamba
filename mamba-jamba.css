@@ -1,0 +1,66 @@
+.world {
+
+}
+
+/* jungle */
+
+.big-jungle {
+    width: 800px;
+    height: 450px;
+    margin: auto;
+}
+
+.greeny-sky {
+    background-color: #00da44;
+}
+
+.entity {
+    display: block;
+    position: relative;
+}
+
+.black-mamba {
+    width: 100px;
+    height: 50px;
+    background-image: url("./assets/mamba.png");
+}
+
+.galli-mongoose {
+    width: 100px;
+    height: 50px;
+    background-image: url("./assets/mongoose.png");
+}
+
+.atmosphere {
+    width: 800px;
+    height: 350px;    
+}
+
+.earth {
+    width: 800px;
+    height: 100px; 
+    background-color: brown;
+}
+
+.earthy-track {
+    width: 800px;
+    height: 20px;
+    background-image: url("./assets/track.png");
+    background-position-x: 50%;
+}
+
+/* gamepad */
+
+.gamepad {
+    margin: 20px auto 20px;
+    width: 800px;
+    text-align: center;
+}
+
+.button {
+    width: 100px;
+    height: 50px;
+}
+
+.dance {
+}
